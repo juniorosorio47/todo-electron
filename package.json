@@ -1,0 +1,24 @@
+{
+  "name": "Todo",
+  "version": "1.0.0",
+  "description": "Electron todo.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "electron": "electron .",
+    "electron-prod": "",
+    "next": "next",
+    "next-prod": "next build"
+  },
+  "devDependencies": {
+    "electron": "^5.0.0",
+    "eslint": "^5.16.0",
+    "eslint-plugin-prettier": "^3.1.0",
+    "next": "^8.1.0",
+    "prettier": "^1.17.1"
+  },
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
